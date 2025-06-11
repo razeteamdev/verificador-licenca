@@ -1,12 +1,16 @@
 {
-  "CHAVE123": {
-    "user": "João Dev",
-    "machine": "JOAO-PC",
-    "created": "2025-06-10"
-  },
-  "OUTRACHAVE456": {
-    "user": "Maria Tester",
-    "machine": "MARIA-NOTE",
-    "created": "2025-06-01"
-  }
+  "licencas": [
+    {
+      "key": "ABCD1234-EFGH5678",
+      "user": "João Silva",
+      "machine": "DESKTOP-JOAO",
+      "created": "2025-06-11"
+    },
+    {
+      "key": "ZXCV0987-ASDF6543",
+      "user": "Maria Andrade",
+      "machine": "NOTEBOOK-MARIA",
+      "created": "2025-06-10"
+    }
+  ]
 }

@@ -2,11 +2,8 @@
   "licencas_validas": [
     {
       "chave": "RAZE-1234-5678",
-      "usuario": "Razer"
-    },
-    {
-      "chave": "RAZE-TESTE-0001",
-      "usuario": "Conta Teste"
+      "usuario": "Fulano",
+      "expiracao": "2025-07-10"
     }
   ]
 }

@@ -1,7 +1,12 @@
 {
   "licencas_validas": [
-    "RAZE-1234-5678",
-    "RAZE-ABCD-EFGH",
-    "RAZE-TESTE-0001"
+    {
+      "chave": "RAZE-ABCD-1234",
+      "mac": "00:1a:2b:3c:4d:5e"
+    },
+    {
+      "chave": "RAZE-WXYZ-5678",
+      "mac": "11:22:33:44:55:66"
+    }
   ]
 }

@@ -1,9 +1,14 @@
 {
   "licencas_validas": [
     {
+      "usuario": "Razeteam",
       "chave": "RAZE-1234-5678",
-      "usuario": "Fulano",
-      "expiracao": "2025-07-10"
+      "expira_em": "2025-07-11"
+    },
+    {
+      "usuario": "TesteUser",
+      "chave": "TESTE-9876-5432",
+      "expira_em": "2025-12-31"
     }
   ]
 }

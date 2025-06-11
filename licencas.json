@@ -1,7 +1,12 @@
 {
   "licencas_validas": [
-    "RAZE-1234-5678",
-    "RAZE-ABCD-EFGH",
-    "RAZE-TESTE-0001"
+    {
+      "chave": "RAZE-1234-5678",
+      "usuario": "João da Silva"
+    },
+    {
+      "chave": "RAZE-TESTE-0001",
+      "usuario": "Conta Teste"
+    }
   ]
 }

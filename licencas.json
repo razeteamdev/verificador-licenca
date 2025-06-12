@@ -1,8 +1,16 @@
-{  "licencas": [
-  {
-      "key": "RAZE48A5",
-      "user": "Felipe",
-      "machine": "Fenave",
-      "created": "2025-06-11"
+{
+  "usuarios": [
+    {
+      "chave": "ABC123-XYZ456",
+      "nome": "João Teste",
+      "validade": "2025-07-10",
+      "maquina": "DESKTOP-JOAO"
     },
-    
+    {
+      "chave": "DEF789-GHI000",
+      "nome": "Maria Demo",
+      "validade": "2025-07-05",
+      "maquina": "NOTEBOOK-MARIA"
+    }
+  ]
+}

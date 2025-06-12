@@ -1,16 +1,12 @@
 {
-  "usuarios": [
-    {
-      "chave": "ABC123-XYZ456",
-      "nome": "João Teste",
-      "validade": "2025-07-10",
-      "maquina": "DESKTOP-JOAO"
-    },
-    {
-      "chave": "DEF789-GHI000",
-      "nome": "Maria Demo",
-      "validade": "2025-07-05",
-      "maquina": "NOTEBOOK-MARIA"
-    }
-  ]
+  "ABC123-XYZ": {
+    "usuario": "João",
+    "validade": "2025-07-01",
+    "maquina": "NOME-DO-PC"
+  },
+  "DEF456-XYZ": {
+    "usuario": "Maria",
+    "validade": "2025-07-10",
+    "maquina": "OUTRO-PC"
+  }
 }
